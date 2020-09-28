@@ -64,9 +64,9 @@ while($someOneWin === false) {
     //if distance = distance from array
 
 
-    if (floor($distance1 / 1000) == ) {
+    /*if (floor($distance1 / 1000) == ) {
 
-    }
+    }*/
 
     sleep(1);
 
