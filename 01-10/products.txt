@@ -1,0 +1,5 @@
+Doktordesa;100;5|
+Maize;50;15|
+Sviests;80;7|
+Udens;40;3|
+Kafija;50;40|
