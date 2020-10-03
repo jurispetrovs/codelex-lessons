@@ -1,0 +1,101 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"BranchesTreeState\">\n    <expand>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n    </expand>\n    <select />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"eeb335f1-464e-4fd0-821e-fd8040cf4476\" name=\"Default Changelist\" comment=\"\">\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/28-09/02.php\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/28-09/03.php\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/28-09/04.php\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/28-09/05.php\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/28-09/06.php\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/28-09/07.php\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/28-09/index.php\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/10-09/.idea/10_09.iml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/codelex-lessons.iml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/10-09/.idea/codeStyles/codeStyleConfig.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/10-09/.idea/modules.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/10-09/.idea/php.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/10-09/.idea/workspace.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/19-09/.idea/19-09.iml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/19-09/.idea/codeStyles/codeStyleConfig.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/19-09/.idea/modules.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/modules.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/19-09/.idea/php.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/php.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/19-09/.idea/workspace.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/19-09/03.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/19-09/03.php\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ComposerSettings\">\n    <execution />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectId\" id=\"1i90QTkzBRVlPJi3qSBBfWy8uv0\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\n    <property name=\"node.js.detected.package.eslint\" value=\"true\" />\n    <property name=\"node.js.detected.package.tslint\" value=\"true\" />\n    <property name=\"node.js.path.for.package.eslint\" value=\"project\" />\n    <property name=\"node.js.path.for.package.tslint\" value=\"project\" />\n    <property name=\"node.js.selected.package.eslint\" value=\"(autodetect)\" />\n    <property name=\"node.js.selected.package.tslint\" value=\"(autodetect)\" />\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\n    <property name=\"php.override.implement.member.chooser.php.doc\" value=\"NONE\" />\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"eeb335f1-464e-4fd0-821e-fd8040cf4476\" name=\"Default Changelist\" comment=\"\" />\n      <created>1601304483975</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1601304483975</updated>\n      <workItem from=\"1601304485134\" duration=\"10601000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"WindowStateProjectService\">\n    <state x=\"730\" y=\"183\" width=\"412\" height=\"687\" key=\"#com.intellij.ide.util.MemberChooser\" timestamp=\"1601316539883\">\n      <screen x=\"72\" y=\"29\" width=\"1848\" height=\"1051\" />\n    </state>\n    <state x=\"730\" y=\"183\" width=\"412\" height=\"687\" key=\"#com.intellij.ide.util.MemberChooser/72.29.1848.1051@72.29.1848.1051\" timestamp=\"1601316539883\" />\n    <state x=\"737\" y=\"428\" width=\"399\" height=\"156\" key=\"NewPhpFileDialog\" timestamp=\"1601315412670\">\n      <screen x=\"72\" y=\"29\" width=\"1848\" height=\"1051\" />\n    </state>\n    <state x=\"737\" y=\"428\" width=\"399\" height=\"156\" key=\"NewPhpFileDialog/72.29.1848.1051@72.29.1848.1051\" timestamp=\"1601315412670\" />\n    <state x=\"605\" y=\"226\" key=\"run.anything.popup\" timestamp=\"1601314591706\">\n      <screen x=\"72\" y=\"29\" width=\"1848\" height=\"1051\" />\n    </state>\n    <state x=\"605\" y=\"226\" key=\"run.anything.popup/72.29.1848.1051@72.29.1848.1051\" timestamp=\"1601314591706\" />\n    <state x=\"592\" y=\"270\" width=\"672\" height=\"678\" key=\"search.everywhere.popup\" timestamp=\"1601316374072\">\n      <screen x=\"72\" y=\"29\" width=\"1848\" height=\"1051\" />\n    </state>\n    <state x=\"592\" y=\"270\" width=\"672\" height=\"678\" key=\"search.everywhere.popup/72.29.1848.1051@72.29.1848.1051\" timestamp=\"1601316374072\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision cf7e778efaf964932b990ad58b3f5b11049dda13)
++++ .idea/workspace.xml	(date 1601707605173)
+@@ -19,27 +19,8 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="eeb335f1-464e-4fd0-821e-fd8040cf4476" name="Default Changelist" comment="">
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/28-09/02.php" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/28-09/03.php" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/28-09/04.php" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/28-09/05.php" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/28-09/06.php" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/28-09/07.php" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/28-09/index.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/10-09/.idea/10_09.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codelex-lessons.iml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/10-09/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/10-09/.idea/modules.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/10-09/.idea/php.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/10-09/.idea/workspace.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/19-09/.idea/19-09.iml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/19-09/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/19-09/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/19-09/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/19-09/.idea/workspace.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/19-09/03.php" beforeDir="false" afterPath="$PROJECT_DIR$/19-09/03.php" afterDir="false" />
++    <list default="true" id="eeb335f1-464e-4fd0-821e-fd8040cf4476" name="Default Changelist" comment="New lesson">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -60,7 +41,7 @@
+   <component name="PropertiesComponent">
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
+-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$/../codelex-test" />
+     <property name="node.js.detected.package.eslint" value="true" />
+     <property name="node.js.detected.package.tslint" value="true" />
+     <property name="node.js.path.for.package.eslint" value="project" />
+@@ -79,8 +60,17 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1601304483975</updated>
+-      <workItem from="1601304485134" duration="10601000" />
++      <workItem from="1601304485134" duration="10704000" />
++      <workItem from="1601706943381" duration="662000" />
++    </task>
++    <task id="LOCAL-00001" summary="New lesson">
++      <created>1601317185924</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1601317185924</updated>
+     </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -96,16 +86,33 @@
+         </entry>
+       </map>
+     </option>
++    <option name="oldMeFiltersMigrated" value="true" />
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="New lesson" />
++    <option name="LAST_COMMIT_MESSAGE" value="New lesson" />
+   </component>
+   <component name="WindowStateProjectService">
+     <state x="730" y="183" width="412" height="687" key="#com.intellij.ide.util.MemberChooser" timestamp="1601316539883">
+       <screen x="72" y="29" width="1848" height="1051" />
+     </state>
+     <state x="730" y="183" width="412" height="687" key="#com.intellij.ide.util.MemberChooser/72.29.1848.1051@72.29.1848.1051" timestamp="1601316539883" />
++    <state x="712" y="315" width="424" height="491" key="FileChooserDialogImpl" timestamp="1601706967701">
++      <screen x="72" y="27" width="1848" height="1053" />
++    </state>
++    <state x="712" y="315" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1601706967701" />
+     <state x="737" y="428" width="399" height="156" key="NewPhpFileDialog" timestamp="1601315412670">
+       <screen x="72" y="29" width="1848" height="1051" />
+     </state>
+     <state x="737" y="428" width="399" height="156" key="NewPhpFileDialog/72.29.1848.1051@72.29.1848.1051" timestamp="1601315412670" />
++    <state x="524" y="293" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1601317201602">
++      <screen x="72" y="29" width="1848" height="1051" />
++    </state>
++    <state x="524" y="293" width="800" height="535" key="Vcs.Push.Dialog.v2/72.29.1848.1051@72.29.1848.1051" timestamp="1601317201602" />
++    <state x="710" y="472" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601707605066">
++      <screen x="72" y="27" width="1848" height="1053" />
++    </state>
++    <state x="710" y="472" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.27.1848.1053@72.27.1848.1053" timestamp="1601707605066" />
+     <state x="605" y="226" key="run.anything.popup" timestamp="1601314591706">
+       <screen x="72" y="29" width="1848" height="1051" />
+     </state>
