@@ -1,6 +1,6 @@
 <?php
 
-$size = $_GET['size'] ? ($_GET['size'] + ($_GET['size'] / 4)) : 50;
+$size = $_GET['size'] ? $_GET['size'] + ($_GET['size'] / 4) : 50;
 $oldColor = $_GET['color'] ?? null;
 
 $colors = array_filter([
@@ -30,12 +30,11 @@ $color = $colors[array_rand($colors)];
 <form action="/" method="get">
     <div style="width: <?= $size; ?>px; height: <?= $size; ?>px; background-color: <?= $color; ?>"></div>
 
-    <input type="hidden" name="size" value="<? $size; ?>">
-    <input type="hidden" name="color" value="<? $color; ?>">
+    <input type="hidden" name="size" value="<?= $size; ?>">
+    <input type="hidden" name="color" value="<?= $color; ?>">
 
     <button type="submit">Go random</button>
 </form>
-
 
 </body>
 

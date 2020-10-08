@@ -13,7 +13,7 @@ $max = (int)($_POST['max'] ?? 100);
 
 <body>
 
-<form action="number-generator.php" method="post">
+<form action="index.php" method="post">
     <label for="min">Min number:</label><br>
     <input type="number" min="1" id="min" name="min" value="<?= $min ?>"><br>
     <label for="max">Max number:</label><br>
