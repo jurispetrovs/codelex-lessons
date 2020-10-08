@@ -35,7 +35,7 @@ class Person
         return [
             'name' => $this->getName(),
             'age' => $this->getAge(),
-            'count' => $this->getCount(),
+            'count' => $this->getCount()
         ];
     }
 }

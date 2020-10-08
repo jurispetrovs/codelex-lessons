@@ -37,7 +37,7 @@ class PersonStorage
         return new Person(
             $person['name'],
             $person['age'],
-            $person['count'],
+            $person['count']
         );
     }
 
